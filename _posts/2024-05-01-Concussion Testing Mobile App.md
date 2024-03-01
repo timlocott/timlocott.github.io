@@ -1,7 +1,7 @@
 ---
 title: Concussion Testing Mobile App
 tags: [Flutter, Python, AWS, Mobile App Development]
-date: 2023-05-01
+date: 2024-05-01
 ---
 
 A cross-platform HIPAA-compliant mobile application enabling easy concussion testing,
