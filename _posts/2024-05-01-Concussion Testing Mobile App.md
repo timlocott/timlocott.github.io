@@ -1,6 +1,6 @@
 ---
 title: Concussion Testing Mobile App
-tags: [Flutter, Python, AWS]
+tags: [Flutter, Python, AWS, Mobile App Development]
 date: 2023-05-01
 ---
 
